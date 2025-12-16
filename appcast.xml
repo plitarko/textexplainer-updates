@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.2</title>
+            <description>
+                <![CDATA[
+                    <h2>TextExplainer v1.2</h2>
+                    <p>Major refactoring of the actions system:</p>
+                    <ul>
+                        <li>Unified all actions - built-in actions are now configurable just like custom actions</li>
+                        <li>Three default actions included: Explain Selected Text, Explain Screen Region, Translate to English</li>
+                        <li>Ability to restore default actions if deleted</li>
+                        <li>Renamed "Custom Actions" to "Actions" throughout the app</li>
+                        <li>Default actions show a "Default" badge in the actions list</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Tue, 17 Dec 2024 01:00:00 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/plitarko/textexplainer-updates/raw/main/TextExplainer-v1.2.zip"
+                length="3445237"
+                sparkle:edSignature="buaQ4hny2Omxl/OJEypdZWmBJU800d1nECxqJXsj2hcMyoWPiNaVI2/Xv7EqRQ0CWI9iX4yBbDkGriKiNQAYCQ=="
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.1</title>
             <description>
                 <![CDATA[
