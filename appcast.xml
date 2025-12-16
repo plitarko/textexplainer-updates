@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.5</title>
+            <description>
+                <![CDATA[
+                    <h2>TextExplainer v1.5</h2>
+                    <ul>
+                        <li>Fixed About dialog description to display on multiple lines</li>
+                        <li>Added migration to restore full default action prompts for existing users</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Tue, 17 Dec 2024 04:00:00 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://raw.githubusercontent.com/plitarko/textexplainer-updates/main/TextExplainer-v1.5.zip"
+                length="1700004"
+                sparkle:edSignature="BRnA+fdli3Ftj2Q32wv2WCpDyUmENhLQhh2Bch99M8GvQR4LkcnQdCJPOXk1PWFdP8CmXZAC4JzzeDKdpWN4DA=="
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.4</title>
             <description>
                 <![CDATA[
