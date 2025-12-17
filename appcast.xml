@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 2.1</title>
+            <description>
+                <![CDATA[
+                    <h2>Psaiduck v2.1</h2>
+                    <ul>
+                        <li>Updated app icon</li>
+                        <li>Fixed menu bar icon</li>
+                        <li>Fixed keychain storage</li>
+                        <li>Launch at login enabled by default</li>
+                        <li>App icon now shown in About dialog</li>
+                        <li>Fixed About dialog breaking menu</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Wed, 18 Dec 2025 01:00:00 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://raw.githubusercontent.com/plitarko/psaiduck-updates/main/Psaiduck-v2.1.zip"
+                length="5685256"
+                sparkle:edSignature="rhNFa90pgJ8oh9rJVeY/WparISJkrdZ2v1K8hVHnrLvip65KA4O/MhzD/yL6kYU8DCBEow7lltXkaMCaky4WDA=="
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 2.0</title>
             <description>
                 <![CDATA[
