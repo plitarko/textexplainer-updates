@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 2.6.3</title>
+            <description>
+                <![CDATA[
+                    <h2>Psaiduck v2.6.3</h2>
+                    <ul>
+                        <li>Add web search mode - toggle with the "Web" button to search the internet</li>
+                        <li>Show "Searching web..." indicator when web search is active</li>
+                        <li>Fix markdown horizontal rules (---) rendering</li>
+                        <li>Fix bold text (**text**) rendering</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Thu, 26 Dec 2024 12:30:00 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>2.6.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://raw.githubusercontent.com/plitarko/psaiduck-updates/main/Psaiduck-v2.6.3.zip"
+                length="5815860"
+                sparkle:edSignature="tCMtSwTfAgSo9/stdxBdKwHfM92HhysZpWMR/HfJvU6R5FbxrkG31LjsRoN/hCwSEL3gaf7BU/RBwDX+MXTkAQ=="
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 2.6.2</title>
             <description>
                 <![CDATA[
